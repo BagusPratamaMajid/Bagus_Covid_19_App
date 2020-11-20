@@ -1,0 +1,66 @@
+#transform {
+ transition: 0.5s;
+}
+
+#transform:hover {
+transform:scale(1.1,1.1);     
+}
+
+.jumbo-header {
+ background: linear-gradient(#00fff2, rgb(18, 152, 225));
+}
+
+/* Baris 1 */
+
+#background_jakarta {
+ background: linear-gradient(	#65ff1e, orange);
+}
+
+#background_jatim {
+ background: linear-gradient(rgb(45, 158, 211), rgb(200, 2, 250));
+}
+
+#background_jabar {
+ background: linear-gradient(#0000FD, red);
+}
+
+/* End of Baris 1 */
+
+/* Baris 2 */
+
+#background_jateng {
+ background: linear-gradient(yellow, purple);
+}
+
+#background_sulsel {
+ background: linear-gradient( rgb(0, 174, 255), rgb(158, 67, 67));
+}
+
+#background_sumbar {
+ background: linear-gradient( #20B2AA,	#FFD700);
+}
+
+/* End of Baris 2 */
+
+/* Baris 3 */
+
+#background_riau {
+ background: linear-gradient(#FF1493, red);
+}
+#background_kaltim {
+ background: linear-gradient(yellow, rgb(12, 221, 12));
+}
+#background_sumut {
+ background: linear-gradient(rgb(19, 226, 199), rgb(232, 58, 87));
+}
+
+
+
+/* End of Baris 3 */
+
+
+#background_ntt {
+ background: linear-gradient(red, yellow);
+}
+
+
