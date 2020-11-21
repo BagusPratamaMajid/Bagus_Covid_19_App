@@ -33,17 +33,9 @@
             <a class="nav-link" href="about.php">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <div class="input-group">
-            <input type="text" class="form-control" placeholder="Search.." aria-label="Recipient's username" aria-describedby="button-addon2">
-            <div class="input-group-append">
-              <button class="btn btn-secondary" type="button" id="button-addon2"><i class="fas fa-search"></i></button>
-            </div>
-          </div>
-        </form>
       </div>
      </nav>
 
@@ -301,8 +293,17 @@
     <!-- ============================================= END OF BARIS KE 3 ============================================ -->
       
       
-      
-      
+    <!-- Footer -->
+    <div class=" card-footer mt-5 text-center bg-info">
+      <h6 class="text-white">
+        © 2020 Personal Website of Bagus Pratama Majid Made in <img src="img/emoji_gif/bendera.gif" alt="flag" style="width:6rem; height:6vh"> and Designed with <img src="img/emoji_gif/heart.gif" alt="flag" style="width:5rem; height:8vh"> by Bagus Pratama Majid
+      </h6>
+
+      <h2 class="text-white">
+        #HIDUPSEHAT &nbsp; #KICKCOVID &nbsp; #PAKAIMASKER
+      </h2>
+    </div>  
+    
       
       <!-- Optional JavaScript; choose one of the two! -->
       

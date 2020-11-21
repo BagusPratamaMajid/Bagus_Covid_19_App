@@ -10,6 +10,30 @@ transform:scale(1.1,1.1);
  background: linear-gradient(#00fff2, rgb(18, 152, 225));
 }
 
+/* Effect Typing Text */
+.typed-text {
+ font-weight: normal;
+ color: #dd7233;
+}
+
+.cursor {
+ display: inline-block;
+ width: 2px;
+ background-color: black;
+ margin-left: 0.1rem;
+ animation: blink 1s infinite;
+}
+
+.cursor.typing {
+ animation: none;
+}
+
+@keyframes blink {
+ 0% {background-color: black;}
+ 50% {background-color: transparent;}
+ 100% {background-color: transparent;}
+}
+
 /* Baris 1 */
 
 #background_jakarta {

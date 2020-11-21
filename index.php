@@ -286,7 +286,7 @@ function get_CURL($url)
             <a class="nav-link" href="about.php">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
